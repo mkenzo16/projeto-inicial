@@ -55,24 +55,12 @@
     width: 75%;
     margin: 0 auto;
 } */
-
-#container{
-    background-color: #ccc;
-}
-
 .cabecalho{
-    background-color: #333;
+    background-color: blue;
     color: #fff;
     padding: 10px;
     text-align: center;
-    background-image: url("../img/banner1280x568.png");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-}
-
-.menu ul li{
-    display: inline;
-    margin-right: 10px;
-    background-color: #ccc;
 }
