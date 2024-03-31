@@ -1,4 +1,7 @@
 .cabecalho{
     background-color: rgb(93, 93, 241);
     padding: 10px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
 }
