@@ -102,3 +102,6 @@ button{
     background-color: blue;
 }
 
+.rodape{
+    border-top: solid 2px red;
+}
